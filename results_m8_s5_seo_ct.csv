@@ -1,0 +1,18 @@
+Lasso(alpha=0.001),"ElasticNet(alpha=0.001, l1_ratio=1.0)","DecisionTreeRegressor(max_depth=15, min_samples_leaf=10, min_samples_split=80)","RandomForestRegressor(max_depth=15, min_samples_split=20, random_state=42)","GradientBoostingRegressor(max_depth=15, min_samples_split=50, n_estimators=200,
+                          random_state=42)","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=0.2, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.1, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=15, max_leaves=None,
+             min_child_weight=1, missing=nan, monotone_constraints=None,
+             n_estimators=200, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=None, ...)"
+219.15357359952793,219.15357359952793,163.36444752765968,123.62168598703767,35.76022801490657,8.179565035286775
+0.24853357695824008,0.24853357695824008,0.43983164399529495,0.5761075457120861,0.8773800025610102,0.9719526888010662
+195.65683706643034,195.65683706643034,170.85941579306348,144.24376976996987,122.03635369566756,134.2637240285001
+0.27632415641491803,0.27632415641491803,0.3680423658462887,0.4664856422332241,0.5486242007542286,0.5033988323331116
+221.63628734149526,221.63628734149526,195.53891528079762,175.75702137763386,150.69745726364476,157.96247279400447
+0.2513867937388522,0.2513867937388522,0.3395349828629859,0.4063516002968798,0.49099442148786576,0.46645563032259174
