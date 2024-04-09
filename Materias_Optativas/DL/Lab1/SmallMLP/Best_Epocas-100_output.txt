@@ -1,0 +1,13 @@
+WallTime = 7.73 min
+Completed training in 100 batch: 
+    Training Loss is:  0.5157 
+    Training Accuracy is:  0.745968882602546 
+    Training F1 is:  0.7459 
+
+    Validation Loss is:  0.5186 
+    Validation Accuracy is:  0.7456500212194087 
+    Validation F1 is:  0.745 
+
+    Testing Loss is:  0.5135 
+    Testing Accuracy is:  0.7465563276926069 
+    Testing F1 is:  0.746

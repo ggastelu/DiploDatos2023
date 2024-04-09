@@ -1,0 +1,31 @@
+>>> Sigmoid
+WallTime = 1.51 min
+Completed training in 100 batch: 
+	Training Loss is:  0.6974 
+	Validation Loss is:  0.6939 
+	Accuracy is:  0.49370490875654266
+	F1 is:  0.3305
+
+>>> Tanh
+WallTime = 1.55 min
+Completed training in 100 batch: 
+	Training Loss is:  0.5057 
+	Validation Loss is:  0.5153
+	Accuracy is:  0.7365964068467958
+	F1 is:  0.7364
+
+>>> ReLU
+WallTime = 1.53 min
+Completed training in 100 batch: 
+	Training Loss is:  0.5141
+	Validation Loss is:  0.5098
+	Accuracy is:  0.7476304993634177
+	F1 is:  0.7475
+
+>>> LeakyReLU
+WallTime = 1.58 min
+Completed training in 100 batch:
+	Training Loss is:  0.6949
+	Validation Loss is:  0.6933
+	Accuracy is:  0.5062950912434574
+	F1 is:  0.3361
