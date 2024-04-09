@@ -14,6 +14,8 @@ En este proyecto se propone mitigar los efectos del cambio climático mediante e
 
 De esta manera, los agentes gubernamentales, tomadores de decisiones y las empresas constructoras podrían contar con una herramienta basada en ML para elaborar normativas, propuestas y/o acciones tanto preventivas (para nuevas construcciones) como de reacondicionamiento (para viejas construcciones).
 
+- [**Base de datos cruda**] (https://raw.githubusercontent.com/TamaraMaggioni/Cambio-climatico-y-ML/main/energy.csv)
+
 ### **Objetivos propuestos:**
 
 - Utilizar herramientas del ML y la ciencia de datos para ayudar en los esfuerzos de lucha contra el cambio climático.
